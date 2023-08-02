@@ -1,4 +1,3 @@
-![Web Scraping using Puppeteer, NodeJS, JavaScript](./images/web-scraping-puppeteer-nodejs-javascript.png?raw=true "Web Scraping using Puppeteer, NodeJS, JavaScript")
 
 # Web Scraping using Puppeteer, NodeJS, JavaScript Setup Guide
 This is Web Scraping framework designed using Puppeteer, NodeJS, JavaScript
@@ -21,4 +20,3 @@ This is Web Scraping framework designed using Puppeteer, NodeJS, JavaScript
 * Go to Project root directory and run command: `npm update`
 
 ### Sample Test Results
-![Test Results](./images/test-results.png?raw=true "Test Results")
